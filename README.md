@@ -1,3 +1,8 @@
+### Telegram
+
+[@learn-nau](https://t.me/joinchat/AAAAAE24ok74joSF39utkQ)
+
+
 ## How to run project
 
 Run such commands in terminal in the app folder
