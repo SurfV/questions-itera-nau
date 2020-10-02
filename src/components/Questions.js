@@ -6,7 +6,7 @@ import Question from "./Question"
 
 class Questions extends Component {
 
-    questionsUrl = 'http://questions-itera-nau.herokuapp.com/questions?page=0&size=2';
+    questionsUrl = 'http://questions-app.herokuapp.com/questions?page=0&size=2';
       
     state = {
         questions: this.props.questions
